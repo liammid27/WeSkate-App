@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Header" parent = "TextAppearance.AppCompat">
+        <item name="color">@color/black</item>
+        <item name="android:fontFamily">@font/denk_one</item>
+    </style>
+    <style name="Header.White">
+        <item name="color">@color/white</item>
+    </style>
+    <style name="Body" parent="TextAppearance.AppCompat">
+        <item name="color">@color/black</item>
+        <item name="font">@font/average_sans</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

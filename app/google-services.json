@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178490154772",
+    "project_id": "we-skate-b4a83",
+    "storage_bucket": "we-skate-b4a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178490154772:android:94e6ba3bcaf700d1d72c01",
+        "android_client_info": {
+          "package_name": "com.vegaschool.s10110678.weskate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178490154772-m17e65uakm4iq46iv7kg3i3rql73niup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZm4adh6Y3lrfO3qKaBEqFJ-TvAmtq1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178490154772-m17e65uakm4iq46iv7kg3i3rql73niup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

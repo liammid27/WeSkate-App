@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">We Skate</string>
+    <string name="app_slogan">Grind your way to the top!</string>
+
+    <string-array name="landmarks_array">
+        <item>Half-pipe</item>
+        <item>Skate Park</item>
+        <item>Longboarding Route</item>
+        <item>Rails</item>
+        <item>Jumps</item>
+        <item>Curbs</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
